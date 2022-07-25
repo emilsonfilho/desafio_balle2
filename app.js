@@ -7,7 +7,7 @@ let vinteCincoCentavos = 0
 let dezCentavos = 0
 let cincoCentavos = 0
 
-var newReal = document.createElement('p')
+var newReal = document.createElement('p');
 
 btn.addEventListener('click', enviar)
 
